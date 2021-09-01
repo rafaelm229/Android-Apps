@@ -6,6 +6,10 @@
         <entry key="..\:/Users/rafa_/AndroidStudioProjects/BeHealthy/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/rafa_/AndroidStudioProjects/BeHealthy/app/src/main/res/layout/activity_result.xml" value="0.13541666666666666" />
         <entry key="..\:/Users/rafa_/AndroidStudioProjects/BeHealthy/app/src/main/res/layout/result_view.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/splash_bg.xml" value="0.33" />
+        <entry key="app/src/main/res/font/font.xml" value="0.2234375" />
+        <entry key="app/src/main/res/font/quicksand.xml" value="0.2234375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>
   </component>
