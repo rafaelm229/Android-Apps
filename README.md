@@ -2,7 +2,7 @@
 
 
 
-![cover](link)
+![cover](https://github.com/rafaelm229/Android-Apps/blob/main/assets/Screenshots/android.jpg)
 
 ## Description
 
@@ -24,6 +24,7 @@ The Objective of This Repository  is to store all my Apps and study modules. the
 **Screen-Shots**
 <div align="left">
   <p>
+    <img src="https://github.com/rafaelm229/Android-Apps/blob/main/assets/Screenshots/splash.png" width="200" title="hover text">
     <img src="https://github.com/rafaelm229/Android-Apps/blob/main/assets/Screenshots/BmiApp.jpeg" width="200" title="hover text">
     <img src="https://github.com/rafaelm229/Android-Apps/blob/main/assets/Screenshots/BmiApp_1.jpeg" width="200" title="hover text">
   </p>
