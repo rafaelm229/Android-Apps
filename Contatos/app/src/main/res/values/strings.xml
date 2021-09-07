@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="photographic_content_description" />
+    
+    <string name="menu_1">menu_1</string>
+    <string name="menu_2">menu_2</string>
+
+</resources>
