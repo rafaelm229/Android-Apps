@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Matches-Simulator</string>
     <string name="simulation_button">simulation button</string>
+    <string name="textview1">TextView</string>
+    <string name="_05">05</string>
+    <string name="x">X</string>
+    <string name="textview2">TextView</string>
+    <string name="_02">02</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
 </resources>
