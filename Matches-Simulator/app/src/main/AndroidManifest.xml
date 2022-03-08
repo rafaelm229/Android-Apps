@@ -11,7 +11,8 @@
         android:theme="@style/Theme.MatchesSimulator">
         <activity
             android:name=".DetailActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.MatchesSimulator.NoActionBar"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
